@@ -53,7 +53,7 @@ main()
 	}
 	else
 	{
-		printf("\n\nNiz pozitivnih brojeva: ");
+		printf("\n\nNiz pozitivnih brojeva:");
 		for ( i = 0; i < brPoz; i++)
 		{
 			printf("\t%d", nizPoz[i]);
@@ -68,7 +68,7 @@ main()
 	}
 	else
 	{
-		printf("\n\nNiz negativnih brojeva: ");
+		printf("\n\nNiz negativnih brojeva:");
 			for (i = 0; i < brNeg; i++)
 			{
 				printf("\t%d", nizNeg[i]);

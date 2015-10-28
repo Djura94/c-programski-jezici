@@ -60,6 +60,7 @@ main()
 	{
 		printf("\n\t\t\t%d x %d", niz[i], niz[i + 1]);
 	}
+	free(niz); //Oslobadjanje memorije
 
 	//Press any key to continue...
 	printf("\n\n");
