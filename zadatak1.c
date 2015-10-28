@@ -1,9 +1,11 @@
+//Borisa Eric
+//borisa123@hotmail.com
+//github.com/PrisonBreakeR/c-programski-jezici
+//Feel free to contact me.
+
 /*Napisati program koji od elemenata dinamickog niza formira
 druga dva dinamicka niza, niz pozitivnih i niz negativnih brojeva.
 Prikazati elemente tako dobijenih nizova.*/
-
-//Borisa Eric
-//borisa123@hotmail.com
 #include<stdio.h>
 #include<stdlib.h>
 
